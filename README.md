@@ -12,4 +12,4 @@ Dependencies:
 * SciPy
 * Kornia
 
-The data used to train the models and the trained model weights can be found at [OSF](https://doi.org/10.17605/OSF.IO/MSP3A).
+The data used to train the models (mouse-data-10-segment-split-70-30-48ms.zip) and the trained model weights (table_1.zip, table_2.zip, table_3.zip) can be found at [OSF](https://doi.org/10.17605/OSF.IO/MSP3A).
