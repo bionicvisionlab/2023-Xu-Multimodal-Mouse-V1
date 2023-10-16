@@ -12,4 +12,4 @@ Dependencies:
 * SciPy
 * Kornia
 
-The data used to train the models and the trained model weights can be found at OSF (link to be updated once Cris approves).
+The data used to train the models and the trained model weights can be found at [OSF](https://doi.org/10.17605/OSF.IO/MSP3A).
