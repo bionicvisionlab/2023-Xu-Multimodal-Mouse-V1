@@ -20,3 +20,22 @@ Dependencies:
 * SciPy
 * Kornia
 
+#### Instructions
+
+The code mostly consists of self-contained Jupyter notebooks. 
+* `mouse_model`: Dataset and evaluation utilities that are commonly used in the following Jupyter notebooks.
+* `train_cnn_shifter_table_1.ipynb`: Training and evaluation of the CNN model in Table 1.
+* `train_autoencoder_shifter_table_1.ipynb`: Training and evaluation of the autoencoder model in Table 1.
+* `train_resnet_shifter_table_1.ipynb`: Training and evaluation of the ResNet model in Table 1.
+* `train_efficientnet_shifter_table_1.ipynb`: Training and evaluation of the EfficientNet model in Table 1.
+* `train_sensorium_shifter_table_1&2.ipynb`: Training and evaluation of the Sensorium and Sensorium+ models in Table 1 and Table 2. Please refer to [Sensorium](https://github.com/sinzlab/sensorium) for dependencies.
+* `train_cnn_gru_shifter_table_2.ipynb`: Training and evaluation of the models with different behavioral feature sets in Table 2 (rows 1 - 4).
+* `train_cnn_gru_shifter_table_2_sens_orig.ipynb`: Training and evaluation of the models with behavioral feature set S.
+* `train_cnn_gru_shifter_table_3.ipynb`: Training and evaluation of the models in Table 3.
+* `fig-3-scatter-vis.ipynb`: Plotting Figure 3.
+* `gradient_ascent_cnn_gru_shifter_fig_4.ipynb`: Gradient ascent analysis behind Figure 4.
+* `fig-4-visual-rf.ipynb`: Plotting Figure 4.
+* `saliency_map_cnn_gru_shifter_fig_5.ipynb`: Saliency map analysis behind Figure 5.
+* `fig-5-saliency.ipynb`: Plotting Figure 5.
+* `gradient_ascent_cnn_gru_shifter_fixed_beh_fig_c1.ipynb`: Gradient ascent analysis behind Figure C1.
+* `fig-c1-visual-rf-fixed-beh.ipynb`: Plotting Figure C1.
