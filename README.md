@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://github.com/bionicvisionlab/2023-Xu-Multimodal-Mouse-V1/blob/master/LICENSE)
 [![Data](https://img.shields.io/badge/data-osf.io-lightgrey.svg)](https://doi.org/10.17605/OSF.IO/MSP3A)
-[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2023.05.30.542912v1-orange)](https://doi.org/10.1101/2023.05.30.542912v1)
+[![DOI](https://img.shields.io/badge/DOI-10.1101%2F2023.05.30.542912-orange)](https://doi.org/10.1101/2023.05.30.542912)
 
 # Multimodal Deep Learning Model Unveils Behavioral Dynamics of V1 Activity in Freely Moving Mice
 
